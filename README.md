@@ -4,6 +4,7 @@
 **alfredovaras/alfredovaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- ⚡ Fun fact: TBD
 -->
 - 🔭 I’m currently working on my own programming skills
 - 🌱 I’m currently learning Python, NumPy and Pandas
@@ -12,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about finance and time management
 - 📫 How to reach me: find me on twitter
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: TBD
+
 
